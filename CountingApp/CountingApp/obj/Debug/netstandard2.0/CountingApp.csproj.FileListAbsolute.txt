@@ -1,0 +1,14 @@
+C:\Users\hallj\source\repos\CountingApp\CountingApp\CountingApp\bin\Debug\netstandard2.0\CountingApp.deps.json
+C:\Users\hallj\source\repos\CountingApp\CountingApp\CountingApp\bin\Debug\netstandard2.0\CountingApp.dll
+C:\Users\hallj\source\repos\CountingApp\CountingApp\CountingApp\bin\Debug\netstandard2.0\ref\CountingApp.dll
+C:\Users\hallj\source\repos\CountingApp\CountingApp\CountingApp\bin\Debug\netstandard2.0\CountingApp.pdb
+C:\Users\hallj\source\repos\CountingApp\CountingApp\CountingApp\obj\Debug\netstandard2.0\CountingApp.csprojAssemblyReference.cache
+C:\Users\hallj\source\repos\CountingApp\CountingApp\CountingApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\hallj\source\repos\CountingApp\CountingApp\CountingApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\hallj\source\repos\CountingApp\CountingApp\CountingApp\obj\Debug\netstandard2.0\CountingApp.AssemblyInfoInputs.cache
+C:\Users\hallj\source\repos\CountingApp\CountingApp\CountingApp\obj\Debug\netstandard2.0\CountingApp.AssemblyInfo.cs
+C:\Users\hallj\source\repos\CountingApp\CountingApp\CountingApp\obj\Debug\netstandard2.0\CountingApp.csproj.CoreCompileInputs.cache
+C:\Users\hallj\source\repos\CountingApp\CountingApp\CountingApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\hallj\source\repos\CountingApp\CountingApp\CountingApp\obj\Debug\netstandard2.0\CountingApp.dll
+C:\Users\hallj\source\repos\CountingApp\CountingApp\CountingApp\obj\Debug\netstandard2.0\ref\CountingApp.dll
+C:\Users\hallj\source\repos\CountingApp\CountingApp\CountingApp\obj\Debug\netstandard2.0\CountingApp.pdb
